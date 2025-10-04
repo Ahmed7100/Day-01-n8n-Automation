@@ -59,3 +59,5 @@ Subfolders: `00_Admin`, `01_Assets`, `02_Work-in-Progress`, `03_Final`, `04_Revi
 3. Confirm folder creation in Drive
 4. Confirm welcome email sent with correct links
 5. Verify logging in Google Sheets/Airtable
+
+![alt text](<Screenshot 2025-10-04 222653.png>)
